@@ -1,4 +1,3 @@
-# Kickstart-Data-Analysis-
 # Kickstarting with Excel
 
 ## Overview of Project
